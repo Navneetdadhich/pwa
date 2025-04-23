@@ -7,10 +7,17 @@ self.addEventListener("install", (event) => {
         "/",
         "/index.html",
         "/src/index.css",
+        "/src/main.jsx",
         "/manifest.json",
-        "/src/assets/icon512.png",
-        "/src/assets/icon192.png",
-        "/src/assets/icon384.png",
+        "/icons/count512.png",
+        "/icons/countt.png",
+        "/icons/count192.png",
+        "/icons/count256.png",
+        "/icons/count384.png",
+        "/icons/count96.png",
+        "/icons/count72.png",
+        "/screenshots/desktop.png",
+        "/screenshots/phone.png",
       ]);
     })
   );
