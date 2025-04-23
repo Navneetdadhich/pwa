@@ -44,7 +44,7 @@
   {
     "src": "/src/assets/phone.jpg",
     "sizes": "640x960",
-    "type": "image/png",
+    "type": "image/PNG",
     "form_factor": "narrow"
   },
   {
