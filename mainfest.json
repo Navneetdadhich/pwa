@@ -42,7 +42,7 @@
     ],
     "screenshots": [
   {
-    "src": "/src/assets/phone.jpg",
+    "src": "/src/assets/phone1.png",
     "sizes": "640x960",
     "type": "image/PNG",
     "form_factor": "narrow"
@@ -50,7 +50,7 @@
   {
     "src": "/src/assets/desktop.png",
     "sizes": "1920x1080",
-    "type": "image/png",
+    "type": "image/PNG",
     "form_factor": "wide"
   }
 ]

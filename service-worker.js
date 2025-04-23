@@ -11,8 +11,6 @@ self.addEventListener("install", (event) => {
         "/src/assets/icon512.png",
         "/src/assets/icon192.png",
         "/src/assets/icon384.png",
-
-
       ]);
     })
   );
